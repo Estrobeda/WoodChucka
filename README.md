@@ -1,2 +1,2 @@
 # WoodChucka
-Minecraft woodcutting plugin.
+Minecraft woodcutting plugin. WIP
